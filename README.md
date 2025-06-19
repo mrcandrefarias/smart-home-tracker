@@ -23,7 +23,7 @@ This project is a **prototype** for a smart home tracking system that manages **
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/smart-home-tracker.git
+git clone https://github.com/mrcandrefarias/smart-home-tracker.git
 cd smart-home-tracker
 python iot_track_system.py
 
